@@ -1,0 +1,12 @@
+Cara Memunculkan Tanda Bintang Saat Input Password Pada Terminal Linux Ubuntu
+langkah-langkah :
+1. buka terminal
+2. ketik "sudo su"
+3. masukkan password root
+4. ketik "visudo"
+5. tambahkan "Defaults pwfeedback" di atas "Defaults env_reset"
+6. simpan dan tutup terminal
+7. coba buka terminal dan masuk sebagai root
+
+
+video youtube : https://youtu.be/wbopaDsag_s
